@@ -7,7 +7,7 @@ Beyond data, I have a creative side with interests in **literature**, **multimed
 ## 🔍 What I'm Working On
 - Exploring innovative ways to analyze and visualize data.
 - Building projects that combine data science with multimedia storytelling.
-- Developing **web-based applications** and websites with engaging visual interfaces.
+- Developing web-based applications and websites with engaging visual interfaces.
 - Learning and experimenting with new tools in data science, design, and web development.
 
 ## 🛠️ Skills & Tools
