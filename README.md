@@ -20,7 +20,7 @@ But that's not all! I'm also a creative soul who thrives in **web development**,
 - **Data Science & Analytics**: Python, R, SQL, Pandas, NumPy, Scikit-learn, TensorFlow
 - **Data Visualization**: Matplotlib, Seaborn, Tableau, Power BI
 - **Database**: MySQL, PostgreSQL, MongoDB
-- **Programming Languages**: Python, R, Go (Golang), C++, Java, HTML, CSS, JavaScript
+- **Programming Languages**: Python, R, Go (Golang), C++, HTML, CSS, JavaScript
 - **Web Development**: HTML, CSS, JavaScript, Figma (for prototyping), Flask, Django (for Python-based web apps)
 - **Multimedia & Design**: Adobe Photoshop, Illustrator, Premiere Pro, After Effects, Figma
 - **Other Interests**: Creative writing, photography, videography, radio production
