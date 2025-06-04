@@ -39,7 +39,7 @@ But that's not all! I'm also a creative soul who thrives in **web development**,
 
 ## 📊 GitHub Stats
 ![Zaky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZakyFauzi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakyFauzi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakyFauzi&layout=compact)
 
 ## 📬 Let's Connect!
 - 💼 LinkedIn: [Zaky Muhammad Fauzi](https://www.linkedin.com/in/zaky-muhammad-fauzi-7072082b3/)
