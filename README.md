@@ -36,8 +36,8 @@ But that's not all! I'm also a creative soul who thrives in **web development**,
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ## 📊 GitHub Stats
-![Zaky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZakyFauzi)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakyFauzi)
+![Zaky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZakyFauzi)
 
 ## 📬 Let's Connect!
 - 💼 LinkedIn: [Zaky Muhammad Fauzi](https://www.linkedin.com/in/zaky-muhammad-fauzi-7072082b3/)
