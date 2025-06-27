@@ -42,7 +42,7 @@ But that's not all! I'm also a creative soul who thrives in **web development**,
 ## 📬 Let's Connect!
 - 💼 LinkedIn: [Zaky Muhammad Fauzi](https://www.linkedin.com/in/zaky-muhammad-fauzi-7072082b3/)
 - 📧 Email: [zakyfarhan1326@gmail.com](mailto:zakyfarhan1326@gmail.com)
-- 🌐 Portfolio: *Coming soon!*
+- 🌐 Portfolio: *soon!*
 
 Feel free to explore my repositories and reach out if you want to collaborate on data-driven, web-based, or creative projects! 🚀
 
