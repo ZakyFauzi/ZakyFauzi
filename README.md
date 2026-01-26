@@ -1,18 +1,96 @@
-# 💫 Hi! Just call me Zaky.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/type=waving&color=00BFFF&height=200&section=header&text=Zaky%20Fauzi&fontSize=70&animation=fadeIn&fontAlignY=35">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/type=waving&color=0077B5&height=200&section=header&text=Zaky%20Fauzi&fontSize=70&animation=fadeIn&fontAlignY=35">
+    <img alt="Zaky Fauzi" src="https://capsule-render.vercel.app/type=waving&color=00BFFF&height=200&section=header&text=Zaky%20Fauzi&fontSize=70&animation=fadeIn&fontAlignY=35">
+  </picture>
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=1000&lines=Data+Scientist+%7C+AI+Researcher+%7C+Creative+Technologist;Passionate+about+NLP+CV+%26+Time+Series+Modeling;Blending+Data+Science+with+Design+and+Storytelling)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Data+Scientist;AI+Researcher;Creative+Technologist" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/zaky-muhammad-fauzi-7072082b3"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:zakyfarhan1326@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email"></a>
+  <a href="https://discord.gg/zyf#5959"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=flat-square" alt="Discord"></a>
+</p>
 
 ---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zyf#5959) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaky-muhammad-fauzi-7072082b3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zakyfarhan1326@gmail.com) 
+### <p align="center">🚀 Beyond the Data Points</p>
+<p align="center">
+I bridge the gap between <b>Rigorous Analytics</b> and <b>Human-Centric Design</b>. Focused on NLP, Computer Vision, and Time Series modeling, I treat datasets as narratives waiting to be told through code and visuals.
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZakyFauzi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ZakyFauzi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakyFauzi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### <p align="center">💻 Specialized Tech Stack</p>
+
+<p align="center">
+  <b>Data Science & AI</b><br>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Engineering & Dev</b><br>
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Creative Production</b><br>
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+### <p align="center">📊 Analytical Footprint</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ZakyFauzi&show_icons=true&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ZakyFauzi&show_icons=true&theme=flat&hide_border=true">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZakyFauzi&show_icons=true&theme=tokyonight&hide_border=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakyFauzi&layout=compact&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakyFauzi&layout=compact&theme=flat&hide_border=true">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakyFauzi&layout=compact&theme=tokyonight&hide_border=true">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ZakyFauzi&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ZakyFauzi&theme=flat&hide_border=true">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ZakyFauzi&theme=tokyonight&hide_border=true">
+  </picture>
+</p>
+
+---
+
+### <p align="center">✍️ Inspiration</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=flat">
+    <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZakyFauzi&color=00BFFF&style=flat-square&label=STALKING+COUNT" alt="views" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZakyFauzi/ZakyFauzi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
