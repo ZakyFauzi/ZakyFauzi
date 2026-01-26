@@ -1,55 +1,113 @@
-<div align="center">
+<h1 align="center">Hi, I'm Zaky 👋</h1>
 
-# 💫 Hi! Just call me Zaky  
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=1000&lines=Data+Scientist+%7C+AI+Researcher+%7C+Creative+Technologist;Passionate+about+NLP+CV+%26+Time+Series+Modeling;Blending+Data+Science+with+Design+and+Storytelling)
-
----
-
-## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zyf#5959)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaky-muhammad-fauzi-7072082b3)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zakyfarhan1326@gmail.com)
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+AI+Researcher+%7C+Creative+Technologist;NLP+%7C+Computer+Vision+%7C+Time+Series;Blending+Data+Science+with+Design+and+Storytelling" 
+    alt="Typing SVG" 
+  />
+</p>
 
 ---
 
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+  <a href="https://linkedin.com/in/zaky-muhammad-fauzi-7072082b3">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:zakyfarhan1326@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZakyFauzi.ZakyFauzi"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ZakyFauzi&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakyFauzi&hide_border=false&theme=transparent" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakyFauzi&layout=compact&hide_border=false&theme=transparent" alt="Top Languages" />
+## 🧠 About Me
+
+<p align="center">
+I am a <b>Data Scientist</b> with strong interests in <b>AI research</b>, <b>machine learning</b>, and <b>data-driven systems</b>.<br/>
+My work focuses on transforming complex data into meaningful insights, robust models, and clear visual narratives.<br/><br/>
+I also enjoy bridging <b>data science</b>, <b>engineering</b>, and <b>design</b> to build systems that are both functional and intuitive.
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=ZakyFauzi&theme=algolia&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+## 🔬 Focus Areas
+
+<p align="center">
+• Natural Language Processing (NLP)<br/>
+• Computer Vision (CV)<br/>
+• Time Series Modeling & Forecasting<br/>
+• Machine Learning & Statistical Analysis<br/>
+• Data Visualization & Analytics
+</p>
 
 ---
 
-## ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Dev Quote" />
+## 🛠️ Tech Stack
 
-</div>
+### Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+</p>
+
+### Data Science & ML
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+</p>
+
+### Visualization & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mlflow-0194E2?style=flat"/>
+</p>
+
+### Database & Design
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZakyFauzi&show_icons=true&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakyFauzi&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakyFauzi&layout=compact&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZakyFauzi/ZakyFauzi/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## ✍️ Inspiration
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
+</p>
