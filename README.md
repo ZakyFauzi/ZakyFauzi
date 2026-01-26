@@ -1,49 +1,29 @@
-# 🌟 Hey, I'm Zaky Fauzi! 🚀
+# 💫 Hi! Just call me Zaky.
 
-Hi there! I'm a **Data Science student** with a burning passion for turning raw data into captivating stories through **data science**, **data mining**, **data analysis**, **data visualization**, and **database management**. I love diving deep into datasets to uncover insights that spark decisions and innovation.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=1000&lines=Data+Scientist+%7C+AI+Researcher+%7C+Creative+Technologist;Passionate+about+NLP+CV+%26+Time+Series+Modeling;Blending+Data+Science+with+Design+and+Storytelling)
 
-But that's not all! I'm also a creative soul who thrives in **web development**, **literature**, **multimedia**, and **visual arts**. From crafting stunning **websites** and **web-based apps** with sleek visuals to creating **graphic designs**, **videos**, **photography**, or even **radio productions**, I blend my technical skills with creativity to build experiences that pop! Whether it's coding a dynamic dashboard or weaving narratives through visuals and words, I'm all about making things *beautiful* and *functional*.
+---
 
-## 🌈 What I'm Passionate About
-- 🔍 Crunching data to reveal hidden patterns and insights.
-- 🌐 Building web apps and websites that are as beautiful as they are functional.
-- 🎨 Creating multimedia projects that blend data, design, and storytelling.
-- 🚀 Experimenting with new tools to push the boundaries of data science and creativity.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zyf#5959) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaky-muhammad-fauzi-7072082b3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zakyfarhan1326@gmail.com) 
 
-## 🔍 What I'm Working On
-- Exploring innovative ways to analyze and visualize data.
-- Building projects that combine data science with multimedia storytelling.
-- Developing web-based applications and websites with engaging visual interfaces.
-- Learning and experimenting with new tools in data science, design, and web development.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ZakyFauzi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ZakyFauzi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakyFauzi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🛠️ Skills & Tools
-- **Data Science & Analytics**: Python, R, SQL, Pandas, NumPy, Scikit-learn, TensorFlow
-- **Data Visualization**: Matplotlib, Seaborn, Power BI
-- **Database**: MySQL, PostgreSQL, MongoDB
-- **Programming Languages**: Python, R, Go (Golang), C++, HTML, CSS, JavaScript
-- **Web Development**: HTML, CSS, JavaScript, Figma (for prototyping)
-- **Multimedia & Design**: Adobe Photoshop, Illustrator, Premiere Pro, After Effects, Figma
-- **Other Interests**: Creative writing, photography, videography, radio production
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ZakyFauzi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakyFauzi)
-![Zaky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZakyFauzi)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ZakyFauzi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 📬 Let's Connect!
-- 💼 LinkedIn: [Zaky Muhammad Fauzi](https://www.linkedin.com/in/zaky-muhammad-fauzi-7072082b3/)
-- 📧 Email: [zakyfarhan1326@gmail.com](mailto:zakyfarhan1326@gmail.com)
-- 🌐 Portfolio: *soon!*
+---
+[![](https://visitcount.itsvg.in/api?id=ZakyFauzi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Feel free to explore my repositories and reach out if you want to collaborate on data-driven, web-based, or creative projects! 🚀
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ZakyFauzi.ZakyFauzi)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
