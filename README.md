@@ -1,58 +1,59 @@
 # Zaky Muhammad Fauzi
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">⚡ LinkedIn</a> &nbsp;•&nbsp; 
-  <a href="https://huggingface.co/ZakyF">🤗 Hugging Face</a> &nbsp;•&nbsp; 
-  <a href="https://www.kaggle.com/zkyfauzi">📊 Kaggle</a> &nbsp;•&nbsp; 
-  <a href="mailto:zakyfarhan1326@gmail.com">✉️ Email</a>
-</p>
+An undergraduate Data Science student at Telkom University specialized in designing, training, and deploying end-to-end Machine Learning systems.
 
-An undergraduate Data Science student at Telkom University specialized in designing, training, and deploying end-to-end Machine Learning systems. Proven track record in high-stakes nationwide AI hackathons, handling complex structures from multi-million tabular records to multi-modal neural pipelines.
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin" /></a>
+  <a href="https://huggingface.co/ZakyF"><img src="https://img.shields.io/badge/HuggingFace-111111?style=flat-square&logo=huggingface" /></a>
+  <a href="https://www.kaggle.com/zkyfauzi"><img src="https://img.shields.io/badge/Kaggle-111111?style=flat-square&logo=kaggle" /></a>
+  <a href="mailto:zakyfarhan1326@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail" /></a>
+</p>
 
 ---
 
-### 🏛️ Roles & Responsibilities
+### 🏛️ Roles
 *   **Head of Data Mining Division** @ Prodigi, Telkom University (2026–Present)
 *   **Core Team Member** @ GDG on Campus Telkom University (2025–Present)
 
 ---
 
-### 🏆 Selected Track Record
+### 🏆 Top Track Record
 
-*   **1st Place Winner** — Datavidia Arkavidia ITB (2026)[cite: 1]
-    *   *Air Quality forecasting:* Engineered a CatBoost + XGBoost + LightGBM ensemble pipeline integrated with real-time weather telemetry and custom post-processing boundaries[cite: 1].
-    *   *Yelp Big Data Hackathon:* Processed 5.9M records via optimized Stratified Sampling, extracted semantic features using DistilBERT (1-epoch), and funneled downstream tasks into LightGBM in under 8 hours[cite: 1].
-*   **Silver Award** — Pesta Data Nasional / PEDAS (2025)[cite: 1]
-    *   Developed a hybrid forecasting model combining **NHITS** and **ARIMA** frameworks for enterprise automotive trend predictions[cite: 1].
-*   **Honorable Mention (Best Metric)** — Adikara Data Mining Competition (2025)[cite: 1]
-    *   Designed a custom **LSTM** recurrent network tailored for multivariate food commodity price forecasting[cite: 1].
+| Award | Event / Competition | Core Stack / Strategy |
+| :--- | :--- | :--- |
+| **🥇 1st Place** | Datavidia Arkavidia ITB (2026)[cite: 1] | CatBoost + XGBoost + LightGBM Ensemble \| Big Data NLP (DistilBERT)[cite: 1] |
+| **🥈 Silver Award** | Pesta Data Nasional PEDAS (2025)[cite: 1] | Hybrid Time-Series Forecasting (**NHITS** + **ARIMA**)[cite: 1] |
+| **🏅 Honorable Mention** | Adikara Data Mining (2025)[cite: 1] | Multivariate Food Commodity Price Prediction (**LSTM**)[cite: 1] |
+| **🚀 Finalist** | Data Slayer Competition | Video-Based Drowsiness Detection (Feature Extraction + LightGBM) |
 
 ---
 
-### 🛠️ Core Competencies
+### 🛠️ Technical Matrix
 
-```𝘗𝘺𝘵𝘩𝘰𝘯  |  𝘎𝘰𝘓𝘢𝘯𝘨  |  𝘙𝘶𝘴𝘵  |  𝘚𝘘𝘓  |  𝘙  |  𝘗𝘺𝘛𝘰𝘳𝘤𝘩  |  𝘛𝘦𝘯𝘴𝘰𝘳𝘍𝘭𝘰𝘸  |  𝘚𝘤ikit-𝘓𝘦𝘢𝘳𝘯  |  𝘚𝘵𝘳𝘦𝘢𝘮𝘭𝘪𝘵```
-
-*   **Machine & Deep Learning:** XGBoost, LightGBM, CatBoost, Transformers (Hugging Face), Computer Vision (YOLO, ViT, YuNet), Audio NLP (Whisper)
-*   **Time Series & Analytics:** LSTM, NHITS, ARIMA architectures, Advanced Statistical Sampling
-*   **Ecosystems & Infrastructure:** Supabase, Docker/Git workflows, Soroban Smart Contract SDK (Stellar Blockchain)
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | `Python` `GoLang` `Rust` `SQL` `R` `MIPS Assembly` |
+| **AI / Machine Learning** | `PyTorch` `TensorFlow` `Scikit-Learn` `XGBoost` `LightGBM` `CatBoost` |
+| **Computer Vision & NLP** | `Transformers (Hugging Face)` `YOLO` `ViT` `YuNet` `Whisper NLP` |
+| **Deployment & Web3** | `Streamlit` `React` `Supabase` `Soroban Smart Contract SDK (Stellar)` |
 
 ---
 
 ### 📂 Featured Architectural Projects
 
-#### 🧠 Multimodal AI & Business Intelligence
-*   **[BICARA](https://bicara-neednamatim-qvjfpr4tag4zfbxa4fvmws.streamlit.app/)** — *Multi-Modal Public Speaking Virtual Assistant.* Fuses Computer Vision (**YuNet**) for eye-gaze extraction and NLP (**Whisper**) for interactive speech-rate mechanics and filler word metrics.
-*   **[UHP (UMKM Health Predictor)](https://uhp-apps.netlify.app/)** — *Enterprise Risk Dashboard.* Implements Random Forest & XGBoost stacking for financial profiling, packaged with an Indonesian NLP sentiment parsing component and a Google Gemini API strategy consultant.
-*   **[Archon-AI](#)** — *Financial Resilience Engine.* Multi-phase predictive infrastructure evaluating consumer risk criteria, transaction categorization, and Next Best Offer (NBO) recommendations.
+#### 🤖 Multimodal AI & Business Intelligence
+*   **[BICARA](https://bicara-neednamatim-qvjfpr4tag4zfbxa4fvmws.streamlit.app/)** — Multi-Modal Public Speaking Virtual Assistant using Computer Vision (**YuNet**) and NLP (**Whisper**).
+*   **[UHP (UMKM Health Predictor)](https://uhp-apps.netlify.app/)** — Stacking Ensemble model (Random Forest + XGBoost) with Indonesian NLP analysis and Google Gemini API integration.
+*   **[Archon-AI](#)** — Financial Resilience Infrastructure evaluating multi-factor risk scoring and transaction classification.
 
 #### ⛓️ Web3 & Smart Infrastructure
-*   **[Nebula Quest](#)** — *Decentralized Productivity Protocol.* Written natively in **Rust** leveraging the **Soroban Smart Contract SDK** (Stellar Testnet). Implements on-chain cryptographic authorization (`require_auth()`) with persistent state handling.
-*   **[Ketemuin](https://bisadiketemuin.netlify.app/)** — *NFC Lost & Found Serverless Infrastructure.* Bridge physical 3D-printed assets (embedded with NTAG215 microchips) to serverless Netlify/Supabase notification layers.
+*   **[Nebula Quest](#)** — Decentralized Productivity Protocol built with **Rust** and **Soroban SDK (Stellar Blockchain)**.
+*   **[Ketemuin](https://bisadiketemuin.netlify.app/)** — NFC Lost & Found serverless ecosystem connecting 3D-printed physical assets with Supabase/Netlify.
 
 ---
 
 ### 📊 Code Analytics
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZakyFauzi&show_icons=true&theme=omni&count_private=true&hide_border=true" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakyFauzi&layout=compact&theme=omni&hide_border=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZakyFauzi&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakyFauzi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" height="150px"/>
 </p>
