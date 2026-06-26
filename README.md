@@ -1,92 +1,58 @@
-# Hi there, I'm Zaky Muhammad Fauzi 👋 🚀
-
-I am a Data Science student at Telkom University and an AI/ML enthusiast passionate about transforming complex data into actionable solutions. I specialize in Predictive Analytics, NLP, Computer Vision, and exploring the intersection of AI with Web3 technologies.
-
-Currently, I serve as the **Head of Data Mining Division** at Prodigi (Telkom University) and a **Core Team Member** at GDG on Campus Telkom University.
-
----
-
-### 🌟 Competitive Achievements
-I actively test my skills in high-stakes Machine Learning and Data Mining hackathons/competitions. Some highlights include:
-*   🏆 **1st Place** – Datavidia Arkavidia ITB 2026 (Ensemble Modeling & Big Data NLP Hackathon)
-*   🥈 **Silver Award** – Pesta Data Nasional (PEDAS) 2025 (Time-Series Forecasting using NHITS + ARIMA)
-*   🏅 **Honorable Mention (Best Metric)** – Adikara 2025 (Time-Series Price Forecasting using LSTM)
-*   🚀 **Semifinalist & Finalist** – Datavers & Data Slayer (Computer Vision & Hybrid Gradient Boosting)
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<table>
-  <tr>
-    <td align="center" width="9999"><b>Languages</b></td>
-    <td align="center" width="9999"><b>AI / Machine Learning</b></td>
-    <td align="center" width="9999"><b>Data Science & Web Frameworks</b></td>
-  </tr>
-  <tr>
-    <td valign="top">
-      • Python <br/>
-      • GoLang <br/>
-      • Rust <br/>
-      • SQL <br/>
-      • R
-    </td>
-    <td valign="top">
-      • PyTorch / TensorFlow <br/>
-      • Scikit-Learn <br/>
-      • XGBoost / LightGBM / CatBoost <br/>
-      • Hugging Face (Transformers) <br/>
-      • YOLO / ViT / YuNet <br/>
-      • Whisper NLP
-    </td>
-    <td valign="top">
-      • Pandas / NumPy <br/>
-      • Time Series (LSTM, ARIMA, NHITS) <br/>
-      • Streamlit <br/>
-      • React <br/>
-      • Soroban SDK (Stellar Blockchain)
-    </td>
-  </tr>
-</table>
-
----
-
-### 📁 Featured Projects
-
-#### 🤖 Artificial Intelligence & Machine Learning
-*   **[BICARA](https://bicara-neednamatim-qvjfpr4tag4zfbxa4fvmws.streamlit.app/)** - A multi-modal AI virtual assistant analyzing public speaking using Computer Vision (YuNet for eye contact) and NLP (Whisper for speech rate & filler words).
-*   **[UHP (UMKM Health Predictor)](https://uhp-apps.netlify.app/)** - Real-time business health classification using Machine Learning ensembles, Indonesian NLP sentiment analysis, and an AI consulting chatbot powered by Gemini API.
-*   **[Archon-AI](#)** - Financial Resilience Engine combining risk scoring, transaction classification (essential vs discretionary), and Next Best Offer (NBO) recommendations.
-*   **[Indonesia Stock Prediction Dashboard](https://capstonesahamghifary-f6h4yxem33c9hir7emzc5n.streamlit.app/)** - Interative Streamlit app using LSTM models to forecast stock prices combined with a Gemini API-powered financial advisor chatbot.
-
-#### 🌐 Web3 & Ecosystem Integration
-*   **[Nebula Quest](#)** - A gamified, decentralized task management system built on the **Stellar Blockchain** using the **Soroban Smart Contract SDK** in Rust with a premium glassmorphic frontend.
-*   **[Ketemuin](https://bisadiketemuin.netlify.app/)** - An innovative lost-and-found system integrating physical 3D-printed recycled plastic keychains with NFC technology (NTAG215) and a serverless backend.
-
----
-
-### 📊 GitHub Stats & Presence
-
+# Zaky Muhammad Fauzi
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZakyFauzi&show_icons=true&theme=tokyonight&count_private=true" alt="Zaky's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakyFauzi&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">⚡ LinkedIn</a> &nbsp;•&nbsp; 
+  <a href="https://huggingface.co/ZakyF">🤗 Hugging Face</a> &nbsp;•&nbsp; 
+  <a href="https://www.kaggle.com/zkyfauzi">📊 Kaggle</a> &nbsp;•&nbsp; 
+  <a href="mailto:zakyfarhan1326@gmail.com">✉️ Email</a>
 </p>
 
+An undergraduate Data Science student at Telkom University specialized in designing, training, and deploying end-to-end Machine Learning systems. Proven track record in high-stakes nationwide AI hackathons, handling complex structures from multi-million tabular records to multi-modal neural pipelines.
+
 ---
 
-### 🤝 Connect with Me
+### 🏛️ Roles & Responsibilities
+*   **Head of Data Mining Division** @ Prodigi, Telkom University (2026–Present)
+*   **Core Team Member** @ GDG on Campus Telkom University (2025–Present)
 
+---
+
+### 🏆 Selected Track Record
+
+*   **1st Place Winner** — Datavidia Arkavidia ITB (2026)[cite: 1]
+    *   *Air Quality forecasting:* Engineered a CatBoost + XGBoost + LightGBM ensemble pipeline integrated with real-time weather telemetry and custom post-processing boundaries[cite: 1].
+    *   *Yelp Big Data Hackathon:* Processed 5.9M records via optimized Stratified Sampling, extracted semantic features using DistilBERT (1-epoch), and funneled downstream tasks into LightGBM in under 8 hours[cite: 1].
+*   **Silver Award** — Pesta Data Nasional / PEDAS (2025)[cite: 1]
+    *   Developed a hybrid forecasting model combining **NHITS** and **ARIMA** frameworks for enterprise automotive trend predictions[cite: 1].
+*   **Honorable Mention (Best Metric)** — Adikara Data Mining Competition (2025)[cite: 1]
+    *   Designed a custom **LSTM** recurrent network tailored for multivariate food commodity price forecasting[cite: 1].
+
+---
+
+### 🛠️ Core Competencies
+
+```𝘗𝘺𝘵𝘩𝘰𝘯  |  𝘎𝘰𝘓𝘢𝘯𝘨  |  𝘙𝘶𝘴𝘵  |  𝘚𝘘𝘓  |  𝘙  |  𝘗𝘺𝘛𝘰𝘳𝘤𝘩  |  𝘛𝘦𝘯𝘴𝘰𝘳𝘍𝘭𝘰𝘸  |  𝘚𝘤ikit-𝘓𝘦𝘢𝘳𝘯  |  𝘚𝘵𝘳𝘦𝘢𝘮𝘭𝘪𝘵```
+
+*   **Machine & Deep Learning:** XGBoost, LightGBM, CatBoost, Transformers (Hugging Face), Computer Vision (YOLO, ViT, YuNet), Audio NLP (Whisper)
+*   **Time Series & Analytics:** LSTM, NHITS, ARIMA architectures, Advanced Statistical Sampling
+*   **Ecosystems & Infrastructure:** Supabase, Docker/Git workflows, Soroban Smart Contract SDK (Stellar Blockchain)
+
+---
+
+### 📂 Featured Architectural Projects
+
+#### 🧠 Multimodal AI & Business Intelligence
+*   **[BICARA](https://bicara-neednamatim-qvjfpr4tag4zfbxa4fvmws.streamlit.app/)** — *Multi-Modal Public Speaking Virtual Assistant.* Fuses Computer Vision (**YuNet**) for eye-gaze extraction and NLP (**Whisper**) for interactive speech-rate mechanics and filler word metrics.
+*   **[UHP (UMKM Health Predictor)](https://uhp-apps.netlify.app/)** — *Enterprise Risk Dashboard.* Implements Random Forest & XGBoost stacking for financial profiling, packaged with an Indonesian NLP sentiment parsing component and a Google Gemini API strategy consultant.
+*   **[Archon-AI](#)** — *Financial Resilience Engine.* Multi-phase predictive infrastructure evaluating consumer risk criteria, transaction categorization, and Next Best Offer (NBO) recommendations.
+
+#### ⛓️ Web3 & Smart Infrastructure
+*   **[Nebula Quest](#)** — *Decentralized Productivity Protocol.* Written natively in **Rust** leveraging the **Soroban Smart Contract SDK** (Stellar Testnet). Implements on-chain cryptographic authorization (`require_auth()`) with persistent state handling.
+*   **[Ketemuin](https://bisadiketemuin.netlify.app/)** — *NFC Lost & Found Serverless Infrastructure.* Bridge physical 3D-printed assets (embedded with NTAG215 microchips) to serverless Netlify/Supabase notification layers.
+
+---
+
+### 📊 Code Analytics
 <p align="left">
-  <a href="https://linkedin.com/feed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://huggingface.co/ZakyF" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge" alt="Hugging Face"/>
-  </a>
-  <a href="https://www.kaggle.com/zkyfauzi" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="mailto:zakyfarhan1326@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZakyFauzi&show_icons=true&theme=omni&count_private=true&hide_border=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakyFauzi&layout=compact&theme=omni&hide_border=true" height="150px"/>
 </p>
